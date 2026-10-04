@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TermSpace-vibes/termspace-native-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/TermSpace-vibes/termspace-native-releases?style=for-the-badge&color=5b8cff&labelColor=1b2036"></a>
+  <a href="https://github.com/TermSpace-vibes/tidepane-releases/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/TermSpace-vibes/tidepane-releases?style=for-the-badge&color=5b8cff&labelColor=1b2036"></a>
   <img alt="macOS 14 or later" src="https://img.shields.io/badge/macOS-14%2B-2ee6d6?style=for-the-badge&labelColor=1b2036">
   <img alt="Apple silicon" src="https://img.shields.io/badge/Apple%20silicon-native-a05bff?style=for-the-badge&labelColor=1b2036">
 </p>
 
 <p align="center">
-  <a href="https://github.com/TermSpace-vibes/termspace-native-releases/releases/latest"><b>⬇ Download for macOS</b></a>
+  <a href="https://github.com/TermSpace-vibes/tidepane-releases/releases/latest"><b>⬇ Download for macOS</b></a>
   &nbsp;·&nbsp; <a href="#install">Install</a>
   &nbsp;·&nbsp; <a href="#shortcuts">Shortcuts</a>
 </p>
@@ -109,7 +109,7 @@ Seven theme families, each with a dark and a light mode, or match the system. Pi
 <a id="install"></a>
 ## Install
 
-1. Download the latest `.zip` from the [Releases page](https://github.com/TermSpace-vibes/termspace-native-releases/releases/latest) and unzip it.
+1. Download the latest `.zip` from the [Releases page](https://github.com/TermSpace-vibes/tidepane-releases/releases/latest) and unzip it.
 2. Drag the app into your **Applications** folder and open it.
 
 **First launch.** The app is signed, but it is not yet notarized by Apple, so macOS asks you to confirm the first time. Control-click the app and choose **Open**, or go to **System Settings → Privacy & Security** and choose **Open Anyway**. You only do this once.

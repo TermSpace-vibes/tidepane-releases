@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="260 280 560 460" width="560" height="460" role="img" aria-label="Prompt glyph for light backgrounds">
+  <defs><linearGradient id="glyph" gradientUnits="userSpaceOnUse" x1="345" y1="324" x2="725" y2="694">
+      <stop offset="0" stop-color="#0FB5A6"/><stop offset=".5" stop-color="#3B6FE0"/><stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient></defs>
+  <g transform="translate(85 0)">
+    <path d="M268 356 L438 504 L268 652" fill="none" stroke="url(#glyph)" stroke-width="62" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="468" y="642" width="150" height="46" rx="23" fill="url(#glyph)"/>
+  </g>
+</svg>

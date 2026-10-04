@@ -4,7 +4,7 @@
 
 <h1 align="center">Tidepane</h1>
 
-<p align="center"><sub>by <b>Asperthicck</b></sub></p>
+<p align="center"><img src="assets/byline.png" alt="by Samir Kumal" height="60"></p>
 
 <p align="center">
   <b>Terminals, browser and AI agents in one native Mac window.</b><br>
@@ -112,7 +112,7 @@ Seven theme families, each with a dark and a light mode, or match the system. Pi
 1. Download the latest `.zip` from the [Releases page](https://github.com/TermSpace-vibes/tidepane-releases/releases/latest) and unzip it.
 2. Drag the app into your **Applications** folder and open it.
 
-**First launch.** The app is signed, but it is not yet notarized by Apple, so macOS asks you to confirm the first time. Control-click the app and choose **Open**, or go to **System Settings → Privacy & Security** and choose **Open Anyway**. You only do this once.
+**First launch.** The app is signed, but it is not yet notarized by Apple, so macOS asks you to confirm the first time. Open **System Settings → Privacy & Security** and choose **Open Anyway** (on macOS 14 you can also Control-click the app and choose **Open**; macOS 15 and later removed that route). You only do this once.
 
 **Updating.** The app checks for new versions in the background. When one is ready an **Update** button appears in the sidebar. Click it and the app restarts as the new version; your terminals keep running.
 
@@ -125,6 +125,6 @@ Your workspaces, layouts, bookmarks and history are stored in a local database o
 <br>
 
 <p align="center"><sub>
-Tidepane by Asperthicck is an independent project. Claude and Claude Code are trademarks of Anthropic; Mac, macOS and Metal are trademarks of Apple Inc.
+Tidepane by Samir Kumal is an independent project. Claude and Claude Code are trademarks of Anthropic; Mac, macOS and Metal are trademarks of Apple Inc.
 Neither company endorses or is affiliated with this app.
 </sub></p>

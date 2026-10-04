@@ -4,7 +4,7 @@
 
 <h1 align="center">Tidepane</h1>
 
-<p align="center"><sub>by <b>Samir</b></sub></p>
+<p align="center"><sub>by <b>Asperthicck</b></sub></p>
 
 <p align="center">
   <b>Terminals, browser and AI agents in one native Mac window.</b><br>
@@ -125,6 +125,6 @@ Your workspaces, layouts, bookmarks and history are stored in a local database o
 <br>
 
 <p align="center"><sub>
-Tidepane by Samir is an independent project. Claude and Claude Code are trademarks of Anthropic; Mac, macOS and Metal are trademarks of Apple Inc.
+Tidepane by Asperthicck is an independent project. Claude and Claude Code are trademarks of Anthropic; Mac, macOS and Metal are trademarks of Apple Inc.
 Neither company endorses or is affiliated with this app.
 </sub></p>

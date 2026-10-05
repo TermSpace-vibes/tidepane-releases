@@ -21,6 +21,7 @@
   <a href="https://github.com/TermSpace-vibes/tidepane-releases/releases/latest"><b>⬇ Download for macOS</b></a>
   &nbsp;·&nbsp; <a href="#install">Install</a>
   &nbsp;·&nbsp; <a href="#shortcuts">Shortcuts</a>
+  &nbsp;·&nbsp; <a href="https://tidepane.com">tidepane.com</a>
 </p>
 
 <br>
@@ -34,7 +35,7 @@
 | | What you get |
 |---|---|
 | **One window for the whole job** | Run the server, the tests and the docs side by side, and open the page you are building next to them. No more hunting for the right window. |
-| **Shells that survive** | Quit the app or install an update and your shells keep running in the background. Open it again and your terminals reattach. |
+| **Shells that survive** | Quit the app or install an update and your shells keep running in the background. Open it again and your terminals reattach. Restarting your Mac, logging out or killing the background daemon ends them. |
 | **Built for AI coding agents** | See at a glance which pane is working, which needs your answer and which is done, and keep an eye on your Claude usage. |
 | **Light on your Mac** | Terminals redraw only when something changes, so an idle window costs next to nothing. |
 | **Always current** | Signed, one-click updates. Press a button, it reopens as the new version. |
